@@ -17,7 +17,7 @@ sudo curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch
 sudo chmod +x /usr/bin/osfetch
 ```
 ```
-nerdfetch
+osfetch
 ```
 
 #### Termux Installation:
