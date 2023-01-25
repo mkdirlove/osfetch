@@ -22,7 +22,7 @@ osfetch
 
 #### Termux Installation:
 
-Copy-paste this into Termux:
+Copy & Paste this in Termux:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /data/data/com.termux/files/usr/bin/osfetch
@@ -34,7 +34,7 @@ chmod a+x /data/data/com.termux/files/usr/bin/osfetch
 osfetch
 ```
 
-#### One liner command:
+#### One liner command without installing:
 
 Note that this will ***not*** install the program.
 ```sh
