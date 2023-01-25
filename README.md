@@ -43,11 +43,11 @@ curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch | sh
 
 ### Features:
 - Strong cross-OS compatability
-- Not bloated
+- Lightweight
 - Portable
 - POSIX
 
-### OSes supported:
+### Supported Operating Systems:
 - Debian based Linux
 - Ubuntu based Linux
 - Arch based Linux
