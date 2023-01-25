@@ -6,27 +6,35 @@
   <br>
 </h1>
 
-#### Manually:
+#### Installation and Usage:
 
 Copy-paste this into your terminal:
 
 ```sh
 sudo curl -fsSL https://raw.githubusercontent.com/ThatOneCalculator/NerdFetch/master/nerdfetch -o /usr/bin/nerdfetch
+```
+```
 sudo chmod +x /usr/bin/nerdfetch
+```
+```
 nerdfetch
 ```
 
-#### Android with Termux:
+#### Termux Installation:
 
 Copy-paste this into Termux:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/ThatOneCalculator/NerdFetch/master/nerdfetch -o /data/data/com.termux/files/usr/bin/nerdfetch
+```
+```
 chmod a+x /data/data/com.termux/files/usr/bin/nerdfetch
+```
+```
 nerdfetch
 ```
 
-#### Run once:
+#### One liner command:
 
 Note that this will ***not*** install the program.
 ```sh
