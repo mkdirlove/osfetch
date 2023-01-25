@@ -64,4 +64,4 @@ curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch | sh
 - yiffOS Linux
 - Slackware Linux\*
 - macOS 10.x + 11.x
-- Android
+- Android (Termux)
