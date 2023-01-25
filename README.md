@@ -42,7 +42,7 @@ curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch | sh
 ```
 
 ### Features:
-- Strong cross-OS compatability
+- Cross Platform
 - Lightweight
 - Portable
 - POSIX
