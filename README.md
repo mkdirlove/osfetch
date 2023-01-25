@@ -11,10 +11,10 @@
 Copy-paste this into your terminal:
 
 ```sh
-sudo curl -fsSL https://raw.githubusercontent.com/ThatOneCalculator/NerdFetch/master/nerdfetch -o /usr/bin/nerdfetch
+sudo curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /usr/bin/osfetch
 ```
 ```
-sudo chmod +x /usr/bin/nerdfetch
+sudo chmod +x /usr/bin/osfetch
 ```
 ```
 nerdfetch
@@ -25,20 +25,20 @@ nerdfetch
 Copy-paste this into Termux:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/ThatOneCalculator/NerdFetch/master/nerdfetch -o /data/data/com.termux/files/usr/bin/nerdfetch
+curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /data/data/com.termux/files/usr/bin/osfetch
 ```
 ```
-chmod a+x /data/data/com.termux/files/usr/bin/nerdfetch
+chmod a+x /data/data/com.termux/files/usr/bin/osfetch
 ```
 ```
-nerdfetch
+osfetch
 ```
 
 #### One liner command:
 
 Note that this will ***not*** install the program.
 ```sh
-curl -fsSL https://raw.githubusercontent.com/ThatOneCalculator/NerdFetch/master/nerdfetch | sh
+curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch | sh
 ```
 
 ### Features:
