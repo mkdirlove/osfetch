@@ -13,10 +13,10 @@ Copy-paste this into your terminal:
 ```sh
 sudo curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /usr/bin/osfetch
 ```
-```
+```sh
 sudo chmod +x /usr/bin/osfetch
 ```
-```
+```sh
 osfetch
 ```
 
@@ -27,10 +27,10 @@ Copy & Paste this in Termux:
 ```sh
 curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch -o /data/data/com.termux/files/usr/bin/osfetch
 ```
-```
+```sh
 chmod a+x /data/data/com.termux/files/usr/bin/osfetch
 ```
-```
+```sh
 osfetch
 ```
 
@@ -42,6 +42,7 @@ curl -fsSL https://raw.githubusercontent.com/mkdirlove/osfetch/main/osfetch | sh
 ```
 
 ### Features:
+- User Friendly
 - Cross Platform
 - Lightweight
 - Portable
